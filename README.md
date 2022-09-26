@@ -22,7 +22,7 @@ HTML, CSS
 
 
 ## Demo
-https://barbaros163.github.io/03.08.2022/
+https://barbaros163.github.io/03.08.2022/index.html
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com
